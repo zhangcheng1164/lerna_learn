@@ -1,5 +1,5 @@
 {
-  "name": "pkga",
+  "name": "@zcscope/pkga",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "11c7fb62c0ca5c54152a4327d7292fc6836c319e"
+  "gitHead": "64b4b0a3e0e97080cfaca9ecac8dc0ddb96787ee"
 }
